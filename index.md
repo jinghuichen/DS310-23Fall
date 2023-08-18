@@ -80,20 +80,20 @@ Final grade cutoff:
 | 14 | 10/05/23 | Classification: Ensemble Learning                  | GP2      |       |
 | 15 | 10/10/23 | Midterm Review                                     |          | HW3   |
 | 16 | 10/12/23 | Midterm                                            |          |       |
-| -  | 10/17/23 | Hands-on Lab 4: Classification 2                   |          | Lab4  |
-| -  | 10/19/23 | Clustering: Basics                                 | HW4      |       |
-| 17 | 10/24/23 | Clustering: K-means Clustering                     |          | GP2   |
-| 18 | 10/26/23 | Clustering: Hierarchical Clustering                |          |       |
-| 19 | 10/31/23 | Clustering: Density-based Clustering               |          | HW4   |
-| 20 | 11/02/23 | Dimensionality Reduction                           | HW5      |       |
-| 21 | 11/07/23 | Hands-on Lab 5: Clustering                         |          | Lab5  |
-| 22 | 11/09/23 | Deep Learning: Introduction                        | GP3      |       |
-| 23 | 11/14/23 | Thanksgiving                                       |          |       |
-| 24 | 11/16/23 | Thanksgiving                                       |          |       |
+| 17 | 10/17/23 | Hands-on Lab 4: Classification 2                   |          | Lab4  |
+| 18 | 10/19/23 | Clustering: Basics                                 | HW4      |       |
+| 19 | 10/24/23 | Clustering: K-means Clustering                     |          | GP2   |
+| 20 | 10/26/23 | Clustering: Hierarchical Clustering                |          |       |
+| 21 | 10/31/23 | Clustering: Density-based Clustering               |          | HW4   |
+| 22 | 11/02/23 | Dimensionality Reduction                           | HW5      |       |
+| 23 | 11/07/23 | Hands-on Lab 5: Clustering                         |          | Lab5  |
+| 24 | 11/09/23 | Deep Learning: Introduction                        | GP3      |       |
+| -- | 11/14/23 | Thanksgiving                                       |          |       |
+| -- | 11/16/23 | Thanksgiving                                       |          |       |
 | 25 | 11/21/23 | Deep Learning: CNN & RNN                           |          | HW5   |
-| 26 | 11/23/23 | Hands-on Lab 6: PyTorch & CNN & RNN                |          |       |
+| 26 | 11/23/23 | Hands-on Lab 6: PyTorch & CNN & RNN                |          | Lab6  |
 | 27 | 11/28/23 | Advanced Topics in Machine Learning 1              |          |       |
-| 28 | 11/30/23 | Advanced Topics in Machine Learning 2              |          | Lab6  |
+| 28 | 11/30/23 | Advanced Topics in Machine Learning 2              |          |       |
 | 29 | 12/05/23 | Final Review                                       |          |       |
 | 30 | 12/07/23 | Final Exam                                         |          | GP3   |
 
