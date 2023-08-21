@@ -27,7 +27,7 @@ The course teaches students the principles of machine learning (and data mining)
     - Hangfan Zhang
         - Office hours: Tue 1:30 - 2:30pm @ Westgate E301
     - Yilong Wang
-        - Office hours: TBD
+        - Office hours: Mon 1:00 - 2:00pm @ Westgate E301
 
 
 Email : Use Canvas email
