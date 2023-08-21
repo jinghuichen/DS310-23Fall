@@ -88,13 +88,13 @@ Final grade cutoff:
 | 22 | 11/02/23 | Deep Learning: CNN & RNN                           |          |      |
 | 23 | 11/07/23 | Hands-on Lab 5: PyTorch & CNN & RNN                |          | Lab5 |
 | 24 | 11/09/23 | Advance Topics in Deep Learning                    | HW5      |      |
-| -- | 11/14/23 | Thanksgiving                                       |          |      |
-| -- | 11/16/23 | Thanksgiving                                       |          |      |
-| 25 | 11/21/23 | Deep Learning Optimization                         |          |      |
-| 26 | 11/23/23 | Adversarial Machine Learning 1                     |          | HW5  |
+| 25 | 11/14/23 | Deep Learning Optimization                         |          |      |
+| 26 | 11/16/23 | Adversarial Machine Learning 1                     |          | HW5  |
+| -- | 11/21/23 | Thanksgiving                                       |          |      |
+| -- | 11/23/23 | Thanksgiving                                       |          |      |
 | 27 | 11/28/23 | Adversarial Machine Learning 2                     |          |      |
-| 28 | 11/30/23 | Final Review                                       |          | GP3  |
-| 29 | 12/05/23 | Group Project Expo                                 |          |      |
+| 28 | 11/30/23 | Group Project Expo                                 |          | GP3  |
+| 29 | 12/05/23 | Final Review                                       |          |      |
 | 30 | 12/07/23 | Final Exam                                         |          |      |
 
 
