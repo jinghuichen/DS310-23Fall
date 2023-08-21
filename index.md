@@ -22,9 +22,12 @@ The course teaches students the principles of machine learning (and data mining)
     - Office hours: Wed 2-3pm Westgate E380 
 
 - TAs
-    - Yujia Wang  Office hours: Thu 10:00 - 11:30am @ Westgate E301
-    - Hangfan Zhang Office hours: Tue 1:30 - 2:30pm @ Westgate E301
-    - Yilong Wang Office hours: TBD
+    - Yujia Wang (Lead TA)
+        - Office hours: Thu 10:00 - 11:30am @ Westgate E301
+    - Hangfan Zhang
+        - Office hours: Tue 1:30 - 2:30pm @ Westgate E301
+    - Yilong Wang
+        - Office hours: TBD
 
 
 Email : Use Canvas email
