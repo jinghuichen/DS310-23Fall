@@ -22,8 +22,8 @@ The course teaches students the principles of machine learning (and data mining)
     - Office hours: Wed 2-3pm Westgate E380 
 
 - TAs
-    - Yujia Wang  Office hours: TBD
-    - Hangfan Zhang Office hours: TBD
+    - Yujia Wang  Office hours: Thu 10:00 - 11:30am @ Westgate E301
+    - Hangfan Zhang Office hours: Tue 1:30 - 2:30pm @ Westgate E301
     - Yilong Wang Office hours: TBD
 
 
@@ -65,39 +65,37 @@ Final grade cutoff:
 | #  | Date     | Topics                                             | Assigned | Due  |
 |----|----------|----------------------------------------------------|----------|------|
 | 1  | 08/22/23 | Course Introduction                                |          |      |
-| 2  | 08/24/23 | ML Fundamentals                                    | HW1      |      |
+| 2  | 08/24/23 | ML Fundamentals                                    |          |      |
 | 3  | 08/29/23 | Hands-on Lab 1: Python, Pandas, and Numpy          |          | Lab1 |
 | 4  | 08/31/23 | Regression: Linear Regression 1                    |          |      |
-| 5  | 09/05/23 | Regression: Linear Regression 2                    | HW2      | HW1  |
+| 5  | 09/05/23 | Regression: Linear Regression 2                    | HW1      |      |
 | 6  | 09/07/23 | Regression: Linear Regression 3                    |          |      |
 | 7  | 09/12/23 | Regression: Linear Regression 4                    |          |      |
 | 8  | 09/14/23 | Hands-on Lab 2: Kaggle and Regression              | GP1      | Lab2 |
-| 9  | 09/19/23 | Classification: Evaluation and K Nearest Neighbors |          | HW2  |
-| 10 | 09/21/23 | Classification: Logistic Regression and Perceptron |          |      |
-| 11 | 09/26/23 | Hands-on Lab 3: Classification 1                   | HW3      | Lab3 |
+| 9  | 09/19/23 | Classification: Evaluation and K Nearest Neighbors |          | HW1  |
+| 10 | 09/21/23 | Classification: Logistic Regression and Perceptron | HW2      |      |
+| 11 | 09/26/23 | Hands-on Lab 3: Classification 1                   |          | Lab3 |
 | 12 | 09/28/23 | Classification: Decision Trees                     |          |      |
 | 13 | 10/03/23 | Classification: Naive Bayesian                     | GP2      | GP1  |
-| 14 | 10/05/23 | Classification: Ensemble Learning                  |          | HW3  |
+| 14 | 10/05/23 | Classification: Ensemble Learning                  |          | HW2  |
 | 15 | 10/10/23 | Midterm Review                                     |          |      |
 | 16 | 10/12/23 | Midterm                                            |          |      |
-| 17 | 10/17/23 | Clustering: Basics                                 |          |      |
-| 18 | 10/19/23 | Clustering: K-means Clustering                     | HW4      | GP2  |
-| 19 | 10/24/23 | Dimensionality Reduction                           |          |      |
-| 20 | 10/26/23 | Hands-on Lab 4: Clustering                         |          | Lab4 |
-| 21 | 10/31/23 | Deep Learning: Introduction                        | GP3      | HW4  |
-| 22 | 11/02/23 | Deep Learning: CNN & RNN                           |          |      |
-| 23 | 11/07/23 | Hands-on Lab 5: PyTorch & CNN & RNN                |          | Lab5 |
-| 24 | 11/09/23 | Advance Topics in Deep Learning                    | HW5      |      |
-| 25 | 11/14/23 | Deep Learning Optimization                         |          |      |
-| 26 | 11/16/23 | Adversarial Machine Learning 1                     |          | HW5  |
+| 17 | 10/17/23 | Clustering: Basics                                 | HW3      |      |
+| 18 | 10/19/23 | Clustering: K-means Clustering                     |          | GP2  |
+| 19 | 10/24/23 | Hands-on Lab 4: Clustering                         |          | Lab4 |
+| 20 | 10/26/23 | Deep Learning: Introduction                        | GP3      | HW3  |
+| 21 | 10/31/23 | Deep Learning: CNN & RNN                           |          |      |
+| 22 | 11/02/23 | Hands-on Lab 5: PyTorch & CNN & RNN                |          | Lab5 |
+| 23 | 11/07/23 | Advance Topics in Deep Learning                    | HW4      |      |
+| 24 | 11/09/23 | Deep Learning Optimization                         |          |      |
+| 25 | 11/14/23 | Adversarial Machine Learning 1                     |          |      |
+| 26 | 11/16/23 | Adversarial Machine Learning 2                     |          | HW4  |
 | -- | 11/21/23 | Thanksgiving                                       |          |      |
 | -- | 11/23/23 | Thanksgiving                                       |          |      |
-| 27 | 11/28/23 | Adversarial Machine Learning 2                     |          |      |
+| 27 | 11/28/23 | Hands-on Lab 6: Adv ML                             |          | Lab6 |
 | 28 | 11/30/23 | Group Project Expo                                 |          | GP3  |
 | 29 | 12/05/23 | Final Review                                       |          |      |
 | 30 | 12/07/23 | Final Exam                                         |          |      |
-
-
 
 The instructor reserves the right to make any changes.
  
