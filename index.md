@@ -96,8 +96,8 @@ Final grade cutoff:
 | -- | 11/21/23 | Thanksgiving                                       |          |      |
 | -- | 11/23/23 | Thanksgiving                                       |          |      |
 | 27 | 11/28/23 | Hands-on Lab 6: Adv ML                             |          | Lab6 |
-| 28 | 11/30/23 | Group Project Expo                                 |          | GP3  |
-| 29 | 12/05/23 | Final Review                                       |          |      |
+| 28 | 11/30/23 | Final Review                                       |          | GP3  |
+| 29 | 12/05/23 | Group Project Expo                                 |          |      |
 | 30 | 12/07/23 | Final Exam                                         |          |      |
 
 The instructor reserves the right to make any changes.
