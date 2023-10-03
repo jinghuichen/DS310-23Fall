@@ -80,8 +80,8 @@ Final grade cutoff:
 | 11 | 09/26/23 | Hands-on Lab 3: Classification 1                   |          | Lab3 |
 | 12 | 09/28/23 | Classification: Decision Trees                     |          |      |
 | 13 | 10/03/23 | Classification: Naive Bayesian                     | GP2      | GP1  |
-| 14 | 10/05/23 | Classification: Ensemble Learning                  |          | HW2  |
-| 15 | 10/10/23 | Midterm Review                                     |          |      |
+| 14 | 10/05/23 | Classification: Ensemble Learning                  |          |      |
+| 15 | 10/10/23 | Midterm Review                                     |          | HW2  |
 | 16 | 10/12/23 | Midterm                                            |          |      |
 | 17 | 10/17/23 | Clustering: Basics                                 | HW3      |      |
 | 18 | 10/19/23 | Clustering: K-means Clustering                     |          | GP2  |
