@@ -86,11 +86,11 @@ Final grade cutoff:
 | 17 | 10/17/23 | Clustering: Basics                                 | HW3      |      |
 | 18 | 10/19/23 | Clustering: K-means Clustering                     |          | GP2  |
 | 19 | 10/24/23 | Hands-on Lab 4: Clustering                         |          | Lab4 |
-| 20 | 10/26/23 | Deep Learning: Introduction                        | GP3      | HW3  |
-| 21 | 10/31/23 | Deep Learning: CNN & RNN                           |          |      |
+| 20 | 10/26/23 | Deep Learning: Introduction                        | GP3      |      |
+| 21 | 10/31/23 | Deep Learning: CNN & RNN                           | HW4      | HW3  |
 | 22 | 11/02/23 | Hands-on Lab 5: PyTorch & CNN & RNN                |          | Lab5 |
-| 23 | 11/07/23 | Advance Topics in Deep Learning                    | HW4      |      |
-| 24 | 11/09/23 | Deep Learning Optimization                         |          |      |
+| 23 | 11/07/23 | Deep Learning: Attention, Transformers, and LLM    |          |      |
+| 24 | 11/09/23 | Deep Learning: Optimization                        |          |      |
 | 25 | 11/14/23 | Adversarial Machine Learning 1                     |          |      |
 | 26 | 11/16/23 | Adversarial Machine Learning 2                     |          | HW4  |
 | -- | 11/21/23 | Thanksgiving                                       |          |      |
