@@ -90,8 +90,8 @@ Final grade cutoff:
 | 21 | 10/31/23 | Deep Learning: CNN & RNN                           |          |      |
 | 22 | 11/02/23 | Hands-on Lab 4: Clustering                         |          | Lab4 |
 | 23 | 11/07/23 | Hands-on Lab 5: PyTorch & CNN & RNN                |          | Lab5 |
-| 24 | 11/09/23 | Deep Learning: Attention, Transformers, and LLM    |          |      |
-| 25 | 11/14/23 | Deep Learning: Adversarial Machine Learning 1      |          | HW3  |
+| 24 | 11/09/23 | Deep Learning: Attention, Transformers, and LLM    |          | HW3  |
+| 25 | 11/14/23 | Deep Learning: Adversarial Machine Learning 1      |          |      |
 | 26 | 11/16/23 | Deep Learning: Adversarial Machine Learning 2      |          |      |
 | -- | 11/21/23 | Thanksgiving                                       |          |      |
 | -- | 11/23/23 | Thanksgiving                                       |          |      |
